@@ -1,8 +1,7 @@
 import pickle as pkl
 import streamlit as st
 import pandas as pd
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import make_column_transformer
+
 
 # Take inputs from user
 st.image('churn.jpeg')
